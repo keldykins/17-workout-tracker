@@ -1,0 +1,27 @@
+{
+  "name": "workout-tracker",
+  "version": "1.0.0",
+  "description": "track workouts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keldykins/17-workout-tracker.git"
+  },
+  "author": "Keldan Cundy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keldykins/17-workout-tracker/issues"
+  },
+  "homepage": "https://github.com/keldykins/17-workout-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.10.14",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6"
+  }
+}
