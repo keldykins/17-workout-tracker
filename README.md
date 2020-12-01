@@ -8,6 +8,12 @@ Workout app used to view, create and track daily workouts. This application hand
 
 https://fierce-chamber-21292.herokuapp.com/
 
+## Contact
+
+Github: [keldykins](http://github.com/keldykins)
+<br />
+Email: [kelcundy@gmail.com](kelcundy@gmail.com)
+
 ## Credits
 
 Keldan Cundy https://github.com/keldykins
